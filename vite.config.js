@@ -5,5 +5,5 @@ import tailwindcss from "tailwindcss";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/cv-project/",
+  base: "/4exan.github.io/",
 });
